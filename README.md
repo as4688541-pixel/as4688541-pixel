@@ -1,77 +1,190 @@
+<div align="center">
+
 # 👋 Hi, I'm Abhishek Singh
 
-💻 **Aspiring Software Developer | Java | Data Structures & Algorithms**
+### 💻 Aspiring Software Developer | Java Developer | DSA Enthusiast
 
-I'm passionate about programming, problem-solving, and continuously improving my skills through hands-on coding and algorithmic challenges.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+%7C+DSA+%7C+Problem+Solving;LeetCode+%7C+Coding+%7C+Learning;Building+Skills+One+Problem+at+a+Time+%F0%9F%94%A5" alt="Typing SVG" />
 
-## 🚀 About Me
+<br/>
 
-* ☕ Currently focused on **Java**
-* 🧩 Solving **Data Structures & Algorithms** problems
-* 💡 Interested in software development and problem solving
-* 📚 Continuously learning and improving my coding skills
-* 🔥 Practicing consistently on **LeetCode**
+<a href="https://leetcode.com/u/Abhisheksingh_321/">
+  <img src="https://img.shields.io/badge/LeetCode-Abhisheksingh__321-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 
-## 🛠️ Skills & Technologies
-
-### Programming Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Core Concepts
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Problem Solving
-* Arrays & Strings
-* Hashing
-* Linked Lists
-* Trees
-* Recursion & Backtracking
-* Dynamic Programming
-* Binary Search
-* SQL
-
-## 🧩 LeetCode
-
-I regularly practice Data Structures & Algorithms on LeetCode.
-
-### 📊 My LeetCode Stats
-
-[![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api/card)](https://leetcode.com/u/Abhisheksingh_321/)
-
-🔗 **[Visit My LeetCode Profile](https://leetcode.com/u/Abhisheksingh_321/)**
-
-### 🏆 Current Progress
-
-* ✅ **397 Problems Solved**
-* ☕ **354 Java Solutions**
-* 🗄️ **42 MySQL Solutions**
-* ⚡ **1 C++ Solution**
-* 🏅 **100 Days Badge — 2026**
-
-## 📂 LeetCode Solutions
-
-My LeetCode solutions are automatically organized in GitHub using **LeetHub**.
-
-I use this repository to track my progress and maintain my solutions while practicing different DSA concepts.
-
-## 📈 My Coding Journey
-
-> **Learn → Practice → Solve → Improve → Repeat 🔥**
-
-I'm continuously working toward becoming a better problem solver and software developer.
-
-## 📫 Connect With Me
-
-* 🐙 GitHub: [Abhishek Singh](https://github.com/YOUR_GITHUB_USERNAME)
-* 🧩 LeetCode: [Abhisheksingh_321](https://leetcode.com/u/Abhisheksingh_321/)
+</div>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+## 🚀 About Me
 
-💡 *Keep coding. Keep learning. Keep improving.*
+* ☕ Focused on **Java** and **Data Structures & Algorithms**
+* 🧩 Regularly solving problems on **LeetCode**
+* 🔥 Building consistency through daily coding practice
+* 🧠 Interested in problem solving and software development
+* 📚 Continuously learning new technologies and concepts
+* 🛠️ Using **LeetHub** to automatically maintain my LeetCode solutions on GitHub
 
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,mysql" />
+
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+
+</div>
+
+---
+
+## 🧩 LeetCode
+
+<div align="center">
+
+### 📊 My LeetCode Progress
+
+<a href="https://leetcode.com/u/Abhisheksingh_321/">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Abhisheksingh_321?theme=dark\&font=Baloo\&ext=heatmap)
+
+</a>
+
+<br/>
+
+<a href="https://leetcode.com/u/Abhisheksingh_321/">
+  <img src="https://img.shields.io/badge/View_My_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🔥 Coding Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 LeetCode Badges & Achievements
+
+<div align="center">
+
+🏅 **100 Days Badge — 2026**
+
+<br/>
+
+🎯 **Consistent Problem Solving**
+
+<br/>
+
+☕ **Java Problem Solving**
+
+<br/>
+
+🔥 **Continuous Learning**
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## 🔥 My Coding Journey
+
+```text
+Learn
+  ↓
+Practice
+  ↓
+Solve Problems
+  ↓
+Understand Mistakes
+  ↓
+Improve
+  ↓
+Repeat 🔁
+```
+
+> **Consistency beats intensity.**
+
+---
+
+## 📂 LeetHub — LeetCode Solutions
+
+I use **LeetHub** to organize my accepted LeetCode solutions and push them directly to GitHub.
+
+### 📚 Topics I'm Practicing
+
+* 🔹 Arrays
+* 🔹 Strings
+* 🔹 Hashing
+* 🔹 Linked Lists
+* 🔹 Stack & Queue
+* 🔹 Binary Search
+* 🔹 Recursion
+* 🔹 Trees
+* 🔹 Graphs
+* 🔹 Sorting
+* 🔹 Dynamic Programming
+* 🔹 SQL
+
+### 💻 My Solutions
+
+👉 **[View My LeetCode Solutions Repository](YOUR_LEETHUB_REPOSITORY_LINK)**
+
+---
+
+## 🎯 Current Goals
+
+* [ ] Master Data Structures & Algorithms
+* [ ] Improve problem-solving speed
+* [ ] Build meaningful software projects
+* [ ] Strengthen Java fundamentals
+* [ ] Learn advanced concepts
+* [ ] Maintain consistent LeetCode practice
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Abhisheksingh_321/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**Keep Coding • Keep Learning • Keep Improving 🚀**
+
+</div>
