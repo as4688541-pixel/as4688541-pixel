@@ -84,8 +84,8 @@ Main language of each original public repository; this is not a skill rating.
 | Main language | Repositories |
 | --- | ---: |
 | Python | 2 |
-| JavaScript | 1 |
 | Java | 1 |
+| JavaScript | 1 |
 | CSS | 1 |
 
 ---
@@ -96,8 +96,8 @@ Automatically refreshed from my public, original, non-archived repositories, ord
 
 | Project | Description | Main language | Stars | Last push (UTC) |
 | --- | --- | --- | ---: | --- |
+| [LeetCode-Daily-Practice](https://github.com/as4688541-pixel/LeetCode-Daily-Practice) | A collection of LeetCode questions to ace the coding interview! - Created using &#91;LeetHub v2&#93;(https://github.com/arunbhardwaj/LeetHub-2.0) | Java | 0 | 2026-10-25 |
 | [JavaScript](https://github.com/as4688541-pixel/JavaScript) | Explore the repository for details. | JavaScript | 0 | 2026-10-24 |
-| [LeetCode-Daily-Practice](https://github.com/as4688541-pixel/LeetCode-Daily-Practice) | A collection of LeetCode questions to ace the coding interview! - Created using &#91;LeetHub v2&#93;(https://github.com/arunbhardwaj/LeetHub-2.0) | Java | 0 | 2026-10-22 |
 | [AI-DSA_And_SQL_assistant](https://github.com/as4688541-pixel/AI-DSA_And_SQL_assistant) | first step - you choose the DSA/SQl in one option and level of question. | CSS | 0 | 2026-09-27 |
 | [Machine-Learning](https://github.com/as4688541-pixel/Machine-Learning) | Explore the repository for details. | — | 0 | 2026-09-22 |
 | [Emotion-Detection-by-Speech](https://github.com/as4688541-pixel/Emotion-Detection-by-Speech) | Emotion Detection by Speech is a technology that analyzes vocal features such as tone, pitch, intensity, and speech patterns to identify human emotions like happiness, sadness, anger, fear, or stress. It is widely used in healthcare, customer service, human-computer interaction, and mental health monitoring. | Python | 0 | 2026-06-13 |
